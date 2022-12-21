@@ -1,9 +1,10 @@
+
 import os
 import shutil
 #Imports the important libraries needed
-source1 = "C:/Downloads"
+source1 = "C:/Users/user/Downloads"
 #change path to your desiered location
-destinationforsource = "C:/Downloads/Testing"
+destinationforsource = "C:/Users/user/Downloads/Testing"
 listFiles = os.listdir(source1)
 # Creates variables for necessery need
 ## source1 is the path to the folder (downloads)
