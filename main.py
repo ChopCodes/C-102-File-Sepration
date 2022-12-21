@@ -16,5 +16,6 @@ for filename in listFiles:
         else:
             os.makedirs(p2)
             shutil.move(p1,p3)
+print("Work Complete! Any questions/bugs? go to the github profile and ask :D")
 
 
