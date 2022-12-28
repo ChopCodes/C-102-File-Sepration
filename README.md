@@ -1,5 +1,6 @@
 # C-102-File-Sepration
 ## Made by J Avinash kumar with 💗
+### !!! NEW VERSION AVAILABLE !!! [NEW VERSION](https://www.github.com/ChopCodes/file-separation-v2)
 ### Overview :
 This Project is used to organize Files in any folder(We are using Downloads "C:\Users\user\Downloads" here), 
 It simply creates 4 new folders which are 
@@ -42,7 +43,8 @@ The user is responsible for the Hacks/Vurnublities
 
 If you do not agree with the policy said above you can always leave the idea to use this project
 
-## This project is currently under development and will recieve bug fixes
+## The V2 is already out [here](https://www.github.com/ChopCodes/file-separation-v2) but this project will still be active with bug fixes and improvment
+### Latest Version == v1.0.1
 
 
 
